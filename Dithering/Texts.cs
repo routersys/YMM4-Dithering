@@ -1,10 +1,8 @@
 using YukkuriMovieMaker.Generator;
 
-namespace Dithering
-{
-    [AutoGenLocalizer]
-    partial class Texts
-    {
+namespace Dithering;
 
-    }
+[AutoGenLocalizer]
+partial class Texts
+{
 }
